@@ -11,7 +11,7 @@ O modelo de rede neural para reconhecimento de dígitos manuscritos no DigitAI �
 - Entrada (Flatten): Converte a imagem 28x28 em um vetor de 784 valores.
 - Primeira Camada Oculta: 128 neurônios com ativação ReLU.
 - Segunda Camada Oculta: 64 neurônios com ativação ReLU.
-- Saída: 10 neurônios com ativação Softmax para prever as classes de 0 a 9.
+- Saída: 10 neurônios com ativação Softmax para prever os números de 0 a 9.
 
 ![DigitAI_UI](https://github.com/Leonardo-Nunes-Armelim/DigitAI/blob/main/UI.png)
 
